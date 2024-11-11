@@ -1,0 +1,106 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_cqU6zeEPTX",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-11-11T06:48:50.060Z",
+      "createdAt": "2024-11-11T05:58:50.060Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Xnybk5ysJc",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "GPS",
+            "value": "1",
+            "expires": "2024-11-11T06:28:55.349Z",
+            "domain": "youtube.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-11-11T05:59:02.025Z",
+            "lastAccessed": "2024-11-11T05:59:02.025Z"
+          },
+          {
+            "key": "YSC",
+            "value": "Xd5WoJYehqo",
+            "expires": "2024-11-11T06:49:02.020Z",
+            "domain": "youtube.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-11-11T05:59:02.039Z",
+            "lastAccessed": "2024-11-11T05:59:02.039Z"
+          },
+          {
+            "key": "VISITOR_INFO1_LIVE",
+            "value": "QcxryZMWFKw",
+            "expires": "2025-05-10T05:58:55.349Z",
+            "domain": "youtube.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-11-11T05:59:02.045Z",
+            "lastAccessed": "2024-11-11T05:59:02.045Z"
+          },
+          {
+            "key": "VISITOR_PRIVACY_METADATA",
+            "value": "CgJJThIEGgAgJA%3D%3D",
+            "expires": "2025-05-10T05:58:55.350Z",
+            "domain": "youtube.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-11-11T05:59:02.048Z",
+            "lastAccessed": "2024-11-11T05:59:02.048Z"
+          },
+          {
+            "key": "PREF",
+            "value": "f4=4000000&tz=Asia.Calcutta",
+            "expires": "2025-12-16T05:58:58.508Z",
+            "domain": "youtube.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-11-11T05:59:02.050Z",
+            "lastAccessed": "2024-11-11T05:59:02.050Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-11-11T06:48:50.068Z",
+      "createdAt": "2024-11-11T05:58:50.068Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
